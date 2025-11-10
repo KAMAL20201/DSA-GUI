@@ -1,0 +1,22 @@
+.algorithms-page {
+  min-height: 100vh;
+}
+
+.coming-soon {
+  text-align: center;
+  padding: var(--spacing-2xl);
+  background-color: var(--color-bg-secondary);
+  border-radius: var(--radius-xl);
+  margin-top: var(--spacing-xl);
+}
+
+.coming-soon h2 {
+  font-size: 2rem;
+  color: var(--color-text);
+  margin-bottom: var(--spacing-md);
+}
+
+.coming-soon p {
+  font-size: 1.125rem;
+  color: var(--color-text-secondary);
+}
